@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "esModuleInterop": true
+  },
+  "esModuleInterop": true
+}
