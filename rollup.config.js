@@ -14,6 +14,7 @@ export default {
   external: [
     '@tarojs/taro',
     '@tarojs/taro-weapp',
+		'@tarojs/components'
   ],
 	plugins:[
     resolve(),  // 解析node模块(rollup默认不支持)
